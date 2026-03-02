@@ -1,2 +1,2 @@
 # Book-Management-System
-A simple Cpp clean Code for managing Book system for library 
+A simple clean code for implementing class and objects as a book management system.
